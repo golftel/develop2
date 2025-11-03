@@ -20,3 +20,4 @@ improve performance
 final UI tweaks
 update README details
 minor fixes and polish
+init project

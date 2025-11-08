@@ -22,3 +22,4 @@ update README details
 minor fixes and polish
 init project
 add basic layout
+improve header section

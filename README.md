@@ -7,3 +7,4 @@ add task list section
 improve UI spacing
 add stylesheet file
 connect css to index
+add basic javascript

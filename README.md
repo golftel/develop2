@@ -9,3 +9,4 @@ add stylesheet file
 connect css to index
 add basic javascript
 handle button click
+fix layout issue on mobile

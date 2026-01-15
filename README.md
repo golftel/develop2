@@ -27,3 +27,4 @@ fix button click handler
 add task list logic
 refactor task list
 cleanup unused code
+optimize performance

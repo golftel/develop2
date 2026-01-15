@@ -14,3 +14,4 @@ refactor task list logic
 optimize css structure
 update index content
 add small animation
+fix javascript bug

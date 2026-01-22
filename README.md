@@ -15,3 +15,4 @@ optimize css structure
 update index content
 add small animation
 fix javascript bug
+clean up unused code

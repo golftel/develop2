@@ -17,3 +17,4 @@ add small animation
 fix javascript bug
 clean up unused code
 improve performance
+final UI tweaks

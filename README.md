@@ -29,3 +29,4 @@ refactor task list
 cleanup unused code
 optimize performance
 final UI tweaks
+update documentation

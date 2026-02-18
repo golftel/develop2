@@ -19,3 +19,4 @@ clean up unused code
 improve performance
 final UI tweaks
 update README details
+minor fixes and polish
